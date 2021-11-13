@@ -25,7 +25,6 @@
                         <div class="form-group">
                             <a href="#" class="">Esqueceu a senha?</a>
                         </div>
-                    
                 </div>
                 <div class="col-md-6 side-right">
                     <div class="logo">
@@ -44,10 +43,6 @@
                         <div class="form-group">
                             <input type="submit" class="btn" value="Criar nova conta" />
                         </div>
-                        <div class="form-group">
-                        </div>
-                    </form>
-                </div>
             </div>
         </div>
 </body>
