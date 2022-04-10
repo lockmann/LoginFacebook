@@ -1,2 +1,5 @@
-# LoginExempleFacebook
-Modelo de tela de login do Facebook com Bootstrap
+# LoginFacebook
+Modelo de login do Facebook, projeto font-end responsivo com Bootstrap e css.
+
+Acesse a demo do projeto (acesse também pelo dispoditivo móvel)
+https://henriquelockmann.com.br/LoginFacebook
