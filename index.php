@@ -54,6 +54,6 @@
                         </div>
             </div>
         </div>
-        <div class="footer">Desenvolvido por Henrique Lockmann</div>
+        <div class="footer"><a href="https://henriquelockmann.com.br" style="color: #FFFFFF;">Desenvolvido por Henrique Lockmann</a></div>
 </body>
 </html>
